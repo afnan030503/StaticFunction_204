@@ -13,7 +13,7 @@ public:
 	void printAll();
 
 	static void setNim(int pNim) { nim = pNim; /*definsi function*/  }
-	static int getNim() { return nim; /*definisi function*/ }
+	static int getNim() { return nim; /*definisi function*/ } 
 
 	mahasiswa(string pnama) : nama(pnama) { setId(); }
 };
