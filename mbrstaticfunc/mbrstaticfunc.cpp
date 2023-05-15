@@ -3,5 +3,6 @@
 using namespace std;
 
 class mahasiswa {
-	private
+private:
+	static int nim
 };
