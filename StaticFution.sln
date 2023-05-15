@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticFution", "StaticFution\StaticFution.vcxproj", "{3C06A657-80E5-413E-BEB1-CE1376CAD62F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrstaticfunc", "mbrstaticfunc\mbrstaticfunc.vcxproj", "{5F55DBA3-247A-44F6-80BC-0A51E28609DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3C06A657-80E5-413E-BEB1-CE1376CAD62F}.Release|x64.Build.0 = Release|x64
 		{3C06A657-80E5-413E-BEB1-CE1376CAD62F}.Release|x86.ActiveCfg = Release|Win32
 		{3C06A657-80E5-413E-BEB1-CE1376CAD62F}.Release|x86.Build.0 = Release|Win32
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Debug|x64.ActiveCfg = Debug|x64
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Debug|x64.Build.0 = Debug|x64
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Debug|x86.Build.0 = Debug|Win32
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Release|x64.ActiveCfg = Release|x64
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Release|x64.Build.0 = Release|x64
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Release|x86.ActiveCfg = Release|Win32
+		{5F55DBA3-247A-44F6-80BC-0A51E28609DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
