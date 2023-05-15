@@ -36,9 +36,9 @@ void angka::isiData() {
 		cout << i << "	= "; cin >> arr[i];
 	}
 }
- int main() {
+int main() {
 	angka belajarcpp(3); //Constructor Dipanggil
-	angka *ptrBe1ajarcpp = new angka(5); //Constructor Dipanggil
+	angka* ptrBe1ajarcpp = new angka(5); //Constructor Dipanggil
 	delete ptrBe1ajarcpp; //Destructor Dipanggil
 	return 0;
-	//Destructor Dipanggil
+}//Destructor Dipanggil
